@@ -39,7 +39,7 @@ test:
     - scikit-learn
     - spacy
     - transformers
-    - pytorch-cpu
+    - pytorch
 
 about:
   home: https://github.com/dmmiller612/bert-extractive-summarizer
